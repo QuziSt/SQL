@@ -68,6 +68,9 @@ values('Conspiracy of One', 2000);
 insert into allalbums(album_name, album_date)
 values('One More', 2018);
 
+insert into allalbums(album_name, album_date)
+values('One More Album', 2020);
+
 
 -- add tracks
 
@@ -263,5 +266,8 @@ values(7, 8)
 
 insert into albums(album_id, artist_id)
 values(8, 8)
+
+insert into albums(album_id, artist_id)
+values(10, 1)
 
 
